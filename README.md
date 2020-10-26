@@ -4,10 +4,9 @@
 - 📫 How to reach me: ensar@cezeri.software, ensar#0085
 - 🌐 Also check out https://cezeri.software and https://czri.cf/discord
 - Pronouns: He/Him
-<hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahmanlar/rahmanlar/main/gnu.png" alt="GNU"/>
+  <img src="https://www.gnu.org/graphics/fs-gang.png" alt="free software gang"/>
 </p>
-  <h6 align="center">https://gnu.org/</h6>
+  <h6 align="center">https://fsf.org/</h6>
 
 
