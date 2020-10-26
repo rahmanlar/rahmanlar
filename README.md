@@ -5,6 +5,7 @@
 - 🌐 Also check out https://cezeri.software and https://czri.cf/discord
 - Pronouns: He/Him
 <p align="center">
+  <hr>
   <img src="https://raw.githubusercontent.com/rahmanlar/rahmanlar/main/gnu.png" alt="GNU"/>
 </p>
 
