@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahmanlar/rahmanlar/main/gnu.png" alt="GNU"/>
 </p>
-<p align="center">
-  <h6>https://www.gnu.org/</h6>
-</p>
+  <h6 align="center">https://gnu.org/</h6>
+
 
