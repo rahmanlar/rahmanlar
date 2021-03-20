@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on IntelliShell
-- 📫 How to reach me: ensar@cezeri.software, ensar#2785
+- 📫 How to reach me: ensar@cezeri.software, ensar#2515
 - 🌐 Also check out https://cezeri.software and https://czri.cf/discord
 - Pronouns: He/Him
 <hr>
